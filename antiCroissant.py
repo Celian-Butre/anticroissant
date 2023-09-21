@@ -31,7 +31,7 @@ def on_press(key):
             typed_text = (''.join(typed_characters)).lower()
             #print (typed_text)
             if 'croissa' in typed_text:
-                for i in range(7):
+                for i in range(20):
                     backspace()
                     time.sleep(0.1)
                 printWord("Bro Stop.")

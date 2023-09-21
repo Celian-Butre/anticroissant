@@ -1,4 +1,4 @@
-PATH = "antiCroissant.py" #Replace with your path or keep this one if you leave both in the same folder
+PATH = "/home/startupApps/antiCroissant/antiCroissant.py" #Replace with your path or keep this one if you leave both in the same folder
 
 import subprocess
 import time
